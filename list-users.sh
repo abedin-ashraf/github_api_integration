@@ -1,5 +1,17 @@
 #!/bin/bash
 
+################################
+# Author: Mohammed Nurul Abedin Ashraf
+# Version: v1
+#
+#
+#
+# This script will help users to communicate and retrieve information from GitHub
+# Usage:
+#   Please provide your GitHub token and rest API to the script as input
+#
+################################
+
 # GitHub API URL
 API_URL="https://api.github.com"
 
